@@ -29,5 +29,5 @@ TensorFlow/Keras, OpenCV, BiLSTM, and CTC on 11,000 GRID samples. On unseen test
 ## Stack
 
 TypeScript · JavaScript · Python · Vue.js · React · Next.js · Node.js  
-MongoDB · Redis · Docker · Kubernetes · GitHub Actions · Cloudflare Workers  
+MongoDB · Redis · CI/CD Pipeline · Docker · Kubernetes · GitHub Actions · Cloudflare Workers  
 TensorFlow · Keras · OpenCV
